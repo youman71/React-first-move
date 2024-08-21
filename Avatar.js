@@ -2,8 +2,8 @@
 import { getImageUrl } from './Utils.js';
 export default function Avatar({ person, size }) {
   const imageStyle = {
-    width: '150px',
-    height: '150px',
+    width: '10px',
+    height: '10px',
     borderRadius: '50%',
     objectFit: 'cover'
   };
